@@ -14,7 +14,7 @@ env:
   UBOOT_REPO: hzyitc/u-boot-onecloud
   UBOOT_RELEASE: latest
   UBOOT_BURNIMG: eMMC.burn.img
-  ARMBIAN_REPO: hzyitc/armbian-onecloud
+  ARMBIAN_REPO: lloovve/armbian-onecloud
   ARMBIAN_REF: meson-bump
 
 jobs:
